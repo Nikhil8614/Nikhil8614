@@ -25,6 +25,5 @@
 ## 📫 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nikhil8614/)
-- 💼 [GitHub](https://github.com/Nikhil8614)
 - 📬 Email: sainikhil8614@gmail.com
 
